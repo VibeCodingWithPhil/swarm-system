@@ -181,8 +181,14 @@ with open(history_file, 'w') as f:
     json.dump(history, f, indent=2)
 " 2>/dev/null
     
+    # Start the dashboard first
+    bash "$SWARM_HOME/bin/swarm-dashboard.sh" "$PROJECT_PATH" start
+    
     # Launch the final swarm system with all features
     bash "$SWARM_HOME/bin/launch-swarm-final.sh" "$PROJECT_PATH" "$PROJECT_NAME"
+    
+    # Set up cleanup trap to stop dashboard when swarm ends
+    trap "bash '$SWARM_HOME/bin/swarm-dashboard.sh' '$PROJECT_PATH' stop" EXIT SIGINT SIGTERM
 }
 
 clean_project() {

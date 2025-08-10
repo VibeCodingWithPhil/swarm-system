@@ -1,0 +1,41 @@
+{
+  "name": "swarm-kanban-dashboard",
+  "version": "1.0.0",
+  "description": "Electron dashboard for Swarm Kanban monitoring",
+  "main": "electron-main.js",
+  "scripts": {
+    "start": "electron .",
+    "build-mac": "electron-builder --mac",
+    "build-win": "electron-builder --win",
+    "build-linux": "electron-builder --linux"
+  },
+  "keywords": ["swarm", "kanban", "dashboard", "monitoring"],
+  "author": "Swarm System",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.0",
+    "electron-builder": "^24.0.0"
+  },
+  "dependencies": {
+    "electron-is-dev": "^2.0.0"
+  },
+  "build": {
+    "appId": "com.swarm.kanban",
+    "productName": "Swarm Kanban Dashboard",
+    "directories": {
+      "output": "dist"
+    },
+    "mac": {
+      "category": "public.app-category.developer-tools",
+      "icon": "assets/icon.icns"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "assets/icon.ico"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "assets/icon.png"
+    }
+  }
+}

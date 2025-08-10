@@ -1,0 +1,6 @@
+# PNG Icon Placeholder
+# To generate actual PNG from SVG, run:
+# npm install -g svgexport
+# svgexport icon.svg icon.png 512:512
+
+This is a placeholder file. The actual PNG icon will be generated from the SVG when the Electron app builds.

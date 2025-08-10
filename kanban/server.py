@@ -179,8 +179,8 @@ def watch_project_files(project_path):
 @app.route('/')
 def index():
     """Main kanban board page"""
-    # Use the improved v2 design
-    return render_template('kanban-v2.html')
+    # Use the React-based design preserving the original professional UI
+    return send_from_directory('.', 'kanban-react.html')
 
 @app.route('/api/status')
 def get_status():
