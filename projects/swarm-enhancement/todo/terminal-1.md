@@ -1,10 +1,10 @@
-# Terminal 1 - Backend Architecture
+# Terminal 1 - Core API Logic
 
 ## Role
-Backend Architecture
+Core API Logic
 
 ## Phase 1: Foundation & Setup
-### Priority 1: Project setup & build configuration
+### Priority 1: API framework setup
 - [ ] Initial setup and configuration
 - [ ] Create base structure
 - [ ] Implement core functionality
@@ -12,7 +12,7 @@ Backend Architecture
 - [ ] Document implementation
 
 ## Phase 2: Core Features
-### Priority 2: Authentication system
+### Priority 2: Core feature implementation
 - [ ] Design component architecture
 - [ ] Implement main features
 - [ ] Add error handling

@@ -181,8 +181,8 @@ with open(history_file, 'w') as f:
     json.dump(history, f, indent=2)
 " 2>/dev/null
     
-    # Launch the enhanced swarm system with code checking
-    bash "$SWARM_HOME/bin/launch-swarm-enhanced.sh" "$PROJECT_PATH" "$PROJECT_NAME"
+    # Launch the final swarm system with all features
+    bash "$SWARM_HOME/bin/launch-swarm-final.sh" "$PROJECT_PATH" "$PROJECT_NAME"
 }
 
 clean_project() {

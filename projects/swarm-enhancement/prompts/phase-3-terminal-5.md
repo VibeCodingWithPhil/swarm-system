@@ -4,7 +4,7 @@ TERMINAL 5 - PHASE 3 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 3 - Advanced Features
 
 YOUR SPECIFIC TASK: Implement ui feature

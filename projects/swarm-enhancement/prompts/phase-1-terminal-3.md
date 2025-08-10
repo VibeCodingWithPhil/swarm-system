@@ -4,10 +4,10 @@ TERMINAL 3 - PHASE 1 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 1 - Foundation & Setup
 
-YOUR SPECIFIC TASK: Frontend framework setup
+YOUR SPECIFIC TASK: Authentication & security
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -72,7 +72,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Frontend framework setup
+   - Focus on: Authentication & security
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -101,7 +101,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-3.md
-3. Implement Frontend framework setup with tests
+3. Implement Authentication & security with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.

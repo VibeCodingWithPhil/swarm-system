@@ -12,10 +12,10 @@ TERMINAL 1 - PHASE 1 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 1 - Foundation & Setup
 
-YOUR SPECIFIC TASK: Project setup & build configuration
+YOUR SPECIFIC TASK: API framework setup
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -80,7 +80,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Project setup & build configuration
+   - Focus on: API framework setup
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -109,7 +109,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-1.md
-3. Implement Project setup & build configuration with tests
+3. Implement API framework setup with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.
@@ -125,10 +125,10 @@ TERMINAL 2 - PHASE 1 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 1 - Foundation & Setup
 
-YOUR SPECIFIC TASK: Backend API structure
+YOUR SPECIFIC TASK: Database configuration
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -193,7 +193,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Backend API structure
+   - Focus on: Database configuration
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -222,7 +222,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-2.md
-3. Implement Backend API structure with tests
+3. Implement Database configuration with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.
@@ -238,10 +238,10 @@ TERMINAL 3 - PHASE 1 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 1 - Foundation & Setup
 
-YOUR SPECIFIC TASK: Frontend framework setup
+YOUR SPECIFIC TASK: Authentication & security
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -306,7 +306,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Frontend framework setup
+   - Focus on: Authentication & security
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -335,7 +335,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-3.md
-3. Implement Frontend framework setup with tests
+3. Implement Authentication & security with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.
@@ -351,10 +351,10 @@ TERMINAL 4 - PHASE 1 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 1 - Foundation & Setup
 
-YOUR SPECIFIC TASK: Database schema design
+YOUR SPECIFIC TASK: Core endpoints structure
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -419,7 +419,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Database schema design
+   - Focus on: Core endpoints structure
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -448,7 +448,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-4.md
-3. Implement Database schema design with tests
+3. Implement Core endpoints structure with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.
@@ -464,10 +464,10 @@ TERMINAL 5 - PHASE 1 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 1 - Foundation & Setup
 
-YOUR SPECIFIC TASK: Development environment & tooling
+YOUR SPECIFIC TASK: Documentation setup
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -532,7 +532,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Development environment & tooling
+   - Focus on: Documentation setup
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -561,7 +561,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-5.md
-3. Implement Development environment & tooling with tests
+3. Implement Documentation setup with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.

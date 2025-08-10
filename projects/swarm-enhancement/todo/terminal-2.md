@@ -1,10 +1,10 @@
-# Terminal 2 - API Development
+# Terminal 2 - Database Layer
 
 ## Role
-API Development
+Database Layer
 
 ## Phase 1: Foundation & Setup
-### Priority 1: Backend API structure
+### Priority 1: Database configuration
 - [ ] Initial setup and configuration
 - [ ] Create base structure
 - [ ] Implement core functionality
@@ -12,7 +12,7 @@ API Development
 - [ ] Document implementation
 
 ## Phase 2: Core Features
-### Priority 2: Core API endpoints
+### Priority 2: Core feature implementation
 - [ ] Design component architecture
 - [ ] Implement main features
 - [ ] Add error handling

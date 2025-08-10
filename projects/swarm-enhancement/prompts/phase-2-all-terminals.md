@@ -12,10 +12,10 @@ TERMINAL 1 - PHASE 2 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 2 - Core Features
 
-YOUR SPECIFIC TASK: Authentication system
+YOUR SPECIFIC TASK: Continue development
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -80,7 +80,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Authentication system
+   - Focus on: Continue development
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -109,7 +109,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-1.md
-3. Implement Authentication system with tests
+3. Implement Continue development with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.
@@ -125,10 +125,10 @@ TERMINAL 2 - PHASE 2 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 2 - Core Features
 
-YOUR SPECIFIC TASK: Core API endpoints
+YOUR SPECIFIC TASK: Continue development
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -193,7 +193,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Core API endpoints
+   - Focus on: Continue development
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -222,7 +222,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-2.md
-3. Implement Core API endpoints with tests
+3. Implement Continue development with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.
@@ -238,10 +238,10 @@ TERMINAL 3 - PHASE 2 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 2 - Core Features
 
-YOUR SPECIFIC TASK: Main UI components
+YOUR SPECIFIC TASK: Continue development
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -306,7 +306,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Main UI components
+   - Focus on: Continue development
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -335,7 +335,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-3.md
-3. Implement Main UI components with tests
+3. Implement Continue development with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.
@@ -351,10 +351,10 @@ TERMINAL 4 - PHASE 2 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 2 - Core Features
 
-YOUR SPECIFIC TASK: Data models & validation
+YOUR SPECIFIC TASK: Continue development
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -419,7 +419,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Data models & validation
+   - Focus on: Continue development
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -448,7 +448,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-4.md
-3. Implement Data models & validation with tests
+3. Implement Continue development with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.
@@ -464,10 +464,10 @@ TERMINAL 5 - PHASE 2 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 2 - Core Features
 
-YOUR SPECIFIC TASK: Testing framework
+YOUR SPECIFIC TASK: Continue development
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -532,7 +532,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Testing framework
+   - Focus on: Continue development
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -561,7 +561,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-5.md
-3. Implement Testing framework with tests
+3. Implement Continue development with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.

@@ -1,10 +1,10 @@
-# Terminal 3 - Frontend Development
+# Terminal 3 - Authentication & Security
 
 ## Role
-Frontend Development
+Authentication & Security
 
 ## Phase 1: Foundation & Setup
-### Priority 1: Frontend framework setup
+### Priority 1: Authentication & security
 - [ ] Initial setup and configuration
 - [ ] Create base structure
 - [ ] Implement core functionality
@@ -12,7 +12,7 @@ Frontend Development
 - [ ] Document implementation
 
 ## Phase 2: Core Features
-### Priority 2: Main UI components
+### Priority 2: Core feature implementation
 - [ ] Design component architecture
 - [ ] Implement main features
 - [ ] Add error handling

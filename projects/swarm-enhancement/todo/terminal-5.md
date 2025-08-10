@@ -1,10 +1,10 @@
-# Terminal 5 - DevOps & Testing
+# Terminal 5 - Testing & Documentation
 
 ## Role
-DevOps & Testing
+Testing & Documentation
 
 ## Phase 1: Foundation & Setup
-### Priority 1: Development environment & tooling
+### Priority 1: Documentation setup
 - [ ] Initial setup and configuration
 - [ ] Create base structure
 - [ ] Implement core functionality
@@ -12,7 +12,7 @@ DevOps & Testing
 - [ ] Document implementation
 
 ## Phase 2: Core Features
-### Priority 2: Testing framework
+### Priority 2: Core feature implementation
 - [ ] Design component architecture
 - [ ] Implement main features
 - [ ] Add error handling

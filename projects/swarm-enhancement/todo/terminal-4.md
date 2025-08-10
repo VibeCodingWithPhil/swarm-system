@@ -1,10 +1,10 @@
-# Terminal 4 - Database & Data
+# Terminal 4 - Integration & Middleware
 
 ## Role
-Database & Data
+Integration & Middleware
 
 ## Phase 1: Foundation & Setup
-### Priority 1: Database schema design
+### Priority 1: Core endpoints structure
 - [ ] Initial setup and configuration
 - [ ] Create base structure
 - [ ] Implement core functionality
@@ -12,7 +12,7 @@ Database & Data
 - [ ] Document implementation
 
 ## Phase 2: Core Features
-### Priority 2: Data models & validation
+### Priority 2: Core feature implementation
 - [ ] Design component architecture
 - [ ] Implement main features
 - [ ] Add error handling

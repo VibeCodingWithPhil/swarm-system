@@ -4,10 +4,10 @@ TERMINAL 5 - PHASE 2 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 2 - Core Features
 
-YOUR SPECIFIC TASK: Testing framework
+YOUR SPECIFIC TASK: Continue development
 
 ================================================================================
 CONTEXT & COMPLETED WORK
@@ -72,7 +72,7 @@ WORKING INSTRUCTIONS
    - Build upon existing work, don't duplicate
 
 2. IMPLEMENT YOUR TASK:
-   - Focus on: Testing framework
+   - Focus on: Continue development
    - Write clean, documented code
    - Follow project conventions
    - Create modular, reusable components
@@ -101,7 +101,7 @@ START NOW
 Begin by:
 1. Check workspace/ for existing code
 2. Read your complete todo list at todo/terminal-5.md
-3. Implement Testing framework with tests
+3. Implement Continue development with tests
 4. Update phase-status.json regularly
 
 Remember: Quality over speed. Write production-ready code with tests.

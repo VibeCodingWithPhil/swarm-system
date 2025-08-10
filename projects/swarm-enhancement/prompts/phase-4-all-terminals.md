@@ -12,7 +12,7 @@ TERMINAL 1 - PHASE 4 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 4 - Polish & Deployment
 
 YOUR SPECIFIC TASK: Performance optimization
@@ -125,7 +125,7 @@ TERMINAL 2 - PHASE 4 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 4 - Polish & Deployment
 
 YOUR SPECIFIC TASK: Security hardening
@@ -238,7 +238,7 @@ TERMINAL 3 - PHASE 4 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 4 - Polish & Deployment
 
 YOUR SPECIFIC TASK: UI/UX polish
@@ -351,7 +351,7 @@ TERMINAL 4 - PHASE 4 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 4 - Polish & Deployment
 
 YOUR SPECIFIC TASK: Deployment configuration
@@ -464,7 +464,7 @@ TERMINAL 5 - PHASE 4 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 4 - Polish & Deployment
 
 YOUR SPECIFIC TASK: Documentation & testing

@@ -12,7 +12,7 @@ TERMINAL 1 - PHASE 3 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 3 - Advanced Features
 
 YOUR SPECIFIC TASK: Implement auth feature
@@ -125,7 +125,7 @@ TERMINAL 2 - PHASE 3 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 3 - Advanced Features
 
 YOUR SPECIFIC TASK: Implement realtime feature
@@ -238,7 +238,7 @@ TERMINAL 3 - PHASE 3 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 3 - Advanced Features
 
 YOUR SPECIFIC TASK: Implement testing feature
@@ -351,7 +351,7 @@ TERMINAL 4 - PHASE 3 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 3 - Advanced Features
 
 YOUR SPECIFIC TASK: Implement api feature
@@ -464,7 +464,7 @@ TERMINAL 5 - PHASE 3 PROMPT
 ================================================================================
 
 PROJECT: swarm-enhancement
-DESCRIPTION: Enhance the Swarm System itself with comprehensive testing, improved documentation, error handling, and additional features like GUI interface and cloud deployment support
+DESCRIPTION: enhance
 CURRENT PHASE: 3 - Advanced Features
 
 YOUR SPECIFIC TASK: Implement ui feature
