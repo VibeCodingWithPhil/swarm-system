@@ -35,19 +35,9 @@ kanban/venv/
 *~
 .DS_Store
 
-# Project specific
-projects/*/workspace/
-projects/*/logs/
-projects/*/coordination/task-tracking.json
-projects/*/coordination/phase-status.json
-projects/*/coordination/resume-data.json
-projects/*/changes/
-projects/*/.env
-projects/*/docker-compose.test.yml
-projects/*/launch-term-*.sh
-projects/*/start-terminal-*.sh
-projects/*/phase-controller*.sh
-projects/*/*.tmp
+# Project specific - ignore all projects except .gitkeep
+projects/*
+!projects/.gitkeep
 
 # Config
 config/project-history.json
@@ -66,3 +56,4 @@ docs/_build/
 # Temporary files
 *.tmp
 .temp/
+enhanced-prompt.json
