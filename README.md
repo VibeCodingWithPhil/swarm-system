@@ -17,27 +17,40 @@ Swarm is a revolutionary development system that orchestrates multiple Claude AI
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/swarm-system.git
+git clone https://github.com/VibeCodingWithPhil/swarm-system.git
 cd swarm-system
 
-# Run setup
-./setup.sh
-
-# Add to PATH
+# Install global shortcuts (one-time setup)
+./bin/swarm-setup-global.sh
 source ~/.bashrc  # or ~/.zshrc
+```
+
+### Ultra-Quick Test (30 seconds!)
+
+```bash
+# Option 1: Instant demo
+swdemo  # Creates todo app and starts swarm automatically
+
+# Option 2: Interactive test
+./bin/quick-test.sh
 ```
 
 ### Create Your First Project
 
 ```bash
-# Initialize a project
-swarm init my-app "Build a React dashboard with authentication"
+# Super short commands after setup:
+swn my-app "Build a React dashboard"  # Create project
+swgo my-app                          # Navigate to it
+sws                                  # Start swarm
 
-# Navigate to project
-cd projects/my-app
+# Or all-in-one:
+swquick my-app "Build a React dashboard"  # Creates AND starts!
+```
 
-# Start the swarm
-swarm start
+### Monitor Progress
+
+```bash
+kb  # Shortest command for Kanban monitor (http://localhost:5000)
 ```
 
 This launches 5 AI terminals that build your project collaboratively!
