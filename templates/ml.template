@@ -1,0 +1,6 @@
+#!/bin/bash
+# Machine Learning Template
+
+TEMPLATE_NAME="ml"
+TEMPLATE_PROMPT="Build a machine learning project with data pipeline, model training, evaluation metrics, experiment tracking, model serving API, and deployment infrastructure"
+TEMPLATE_DESCRIPTION="Machine learning project with full pipeline"

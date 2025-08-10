@@ -1,0 +1,6 @@
+#!/bin/bash
+# API Template
+
+TEMPLATE_NAME="api"
+TEMPLATE_PROMPT="Build a REST API with authentication, database integration, comprehensive error handling, rate limiting, documentation, testing suite, and deployment configuration"
+TEMPLATE_DESCRIPTION="REST API with database and authentication"

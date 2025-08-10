@@ -1,0 +1,6 @@
+#!/bin/bash
+# Web Application Template
+
+TEMPLATE_NAME="webapp"
+TEMPLATE_PROMPT="Build a full-stack web application with React frontend, Node.js backend, PostgreSQL database, authentication, responsive UI, REST API, and deployment configuration"
+TEMPLATE_DESCRIPTION="Full-stack web application with modern tech stack"

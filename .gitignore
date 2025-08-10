@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+kanban/venv/
+*/venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+projects/*/workspace/
+projects/*/logs/
+projects/*/coordination/task-tracking.json
+projects/*/coordination/phase-status.json
+projects/*/coordination/resume-data.json
+projects/*/changes/
+projects/*/.env
+projects/*/docker-compose.test.yml
+projects/*/launch-term-*.sh
+projects/*/start-terminal-*.sh
+projects/*/phase-controller*.sh
+projects/*/*.tmp
+
+# Config
+config/project-history.json
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation build
+docs/_build/
+
+# Temporary files
+*.tmp
+.temp/
