@@ -77,9 +77,10 @@ The Kanban board shows:
 ## Troubleshooting
 
 ### Server won't start
-- Check if port 5000 is already in use
+- Server uses port 5555 (to avoid macOS AirPlay conflict on port 5000)
+- Check if port 5555 is already in use
 - Ensure Python 3.7+ is installed
-- Try: `lsof -i :5000` to see if port is occupied
+- Try: `lsof -i :5555` to see if port is occupied
 
 ### No updates showing
 - Verify project has been initialized with swarm

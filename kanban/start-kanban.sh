@@ -40,7 +40,7 @@ fi
 
 echo ""
 echo "Kanban server starting..."
-echo "Open your browser at: http://localhost:5000"
+echo "Open your browser at: http://localhost:5555"
 echo ""
 echo "Press Ctrl+C to stop the server"
 echo "========================================"

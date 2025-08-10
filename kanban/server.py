@@ -274,14 +274,17 @@ def main():
     update_thread = threading.Thread(target=periodic_update, daemon=True)
     update_thread.start()
     
+    # Use port 5555 to avoid conflicts with AirPlay Receiver on macOS
+    port = 5555
+    
     print("=" * 60)
     print("  Swarm Kanban Server")
     print("=" * 60)
-    print(f"  Running on: http://localhost:5000")
+    print(f"  Running on: http://localhost:{port}")
     print(f"  Press Ctrl+C to stop")
     print("=" * 60)
     
-    socketio.run(app, host='0.0.0.0', port=5000, debug=False)
+    socketio.run(app, host='0.0.0.0', port=port, debug=False)
 
 if __name__ == '__main__':
     main()
